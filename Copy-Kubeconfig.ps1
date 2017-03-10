@@ -1,0 +1,1 @@
+scp jvb@k8sjvbmgmt.eastus.cloudapp.azure.com:.kube/config $HOME/.kube/config
